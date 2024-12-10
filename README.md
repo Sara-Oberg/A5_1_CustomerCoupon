@@ -6,7 +6,7 @@ The dataset contains the following information:
 Customer Demographics: Age, gender, marital status, income, education level, etc.
 Driving Context: Destination, weather, passenger type, time of day, etc.
 
-# Coupon Details: 
+# Coupon Details 
 Bars
 Coffee Houses
 Restaurants (less than $20)
