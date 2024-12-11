@@ -34,5 +34,5 @@ The drivers with lower incomes (< $50K) has higher acceptance rate. It might be 
 The drivers without children have a higher tendency to accept coupons.
 This can help the targeted coupon strategies, to offer coupons for those without children
 
-#Visualizations
+# Visualizations
 The analysis includes several visualizations using pie, bar and histogram.
