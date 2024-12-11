@@ -2,7 +2,7 @@
 This repository contains a data analysis project exploring customer behavior regarding driving coupons. The dataset is analyzed and visualized to identify differences between customers who accepted or rejected coupons under various conditions. The results include actionable insights for marketing.
 
 # link to the jupyter notebook
-https://github.com/Sara-Oberg/A5_1_CustomerCoupon/blob/main/prompt_mywork_09Dec2024_v2.ipynb
+[https://github.com/Sara-Oberg/A5_1_CustomerCoupon/blob/main/prompt_mywork_09Dec2024_v2.ipynb](https://github.com/Sara-Oberg/A5_1_CustomerCoupon/blob/main/prompt_mywork_10Dec2024_Final.ipynb)
 
 # Data Description
 The dataset contains the following information:
