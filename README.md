@@ -22,9 +22,17 @@ Y = 0: Did not accept the coupon.
 # Objectives
 In this task, the characteristics of customers who accept coupons have been identified.
 
-# Key Findings
+# Findings
+The dataset has 6 columns with missing data: car, Bar, CoffeeHouse, CarryAway, RestaurantLessThan20 and Restaurant20To50, where the column 'car' has the most missing data 99.1%
+
+Frequent bar-goers (>3 visits/month) are more likely to accept bar coupons on an individual basis (higher acceptance rate within their group). However, the majority of total coupon acceptances come from less frequent bar-goers (<=3 visits/month), likely due to their larger representation in the population.
+
+Older and more frequent bar-goers (Group 1) are more likely to accept bar-related coupons compared to the younger and less frequent visitors (Group 2).
+
+The drivers with lower incomes (< $50K) has higher acceptance rate. It might be they accepted coupons as an opportunity for cost savings, potentially making them more receptive to bar coupons.
+
 The drivers without children have a higher tendency to accept coupons.
 This can help the targeted coupon strategies, to offer coupons for those without children
 
 #Visualizations
-The analysis includes several visualizations to highlight trends.
+The analysis includes several visualizations using pie, bar and histogram.
